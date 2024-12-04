@@ -6,7 +6,7 @@ from openai import OpenAI
 st.set_page_config(page_title="Generador de contenidos", layout="wide")
 
 
-client = OpenAI(api_key="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")
+client = OpenAI(api_key="")
 
 
 st.title('Asistentes virtuales IA-Next-studio')
